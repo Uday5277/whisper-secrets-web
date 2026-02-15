@@ -16,7 +16,7 @@ A simple, stylish web application built during my web development journey. It co
 ## 🛠️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Uday5277/whisper-secrets-web.git](https://github.com/Uday5277/whisper-secrets-web.git)
+   git clone https://github.com/Uday5277/whisper-secrets-web.git
    ```
 
 2.**Install dependencies:**
